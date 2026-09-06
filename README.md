@@ -69,3 +69,5 @@ If you'd rather build the patched `data.win` yourself instead of downloading it,
 
 - If items you've received ever seem to go missing (e.g. after a rough reconnect), the client supports `/resync` to force a full re-application of everything you've received.
 - The client warns loudly on connect if your `data.win` doesn't look patched - if you see that warning, redo step 3.
+- If the game crashes immediately on launch mentioning a "wad file" or "FORM" error, your `data.win` download was almost certainly incomplete or corrupted - redownload it from the [latest Release](../../releases/latest) and confirm the file is about 69 MB before replacing your game's copy.
+- Steam can silently update the base game (and revert any patched `data.win` back to vanilla if it does so while you're testing locally). If a newer game update ever breaks compatibility, check the [Releases page](../../releases) for a newer `data.win` build.
