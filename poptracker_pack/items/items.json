@@ -1,0 +1,1058 @@
+[
+  {
+    "name": "Supervisor 1 Unlock",
+    "type": "toggle",
+    "img": "images/spr_SVPrev_Octopus.png",
+    "codes": "sv1"
+  },
+  {
+    "name": "Supervisor 2 Unlock",
+    "type": "toggle",
+    "img": "images/spr_SVPrev_TonyJr.png",
+    "codes": "sv2"
+  },
+  {
+    "name": "Supervisor 3 Unlock",
+    "type": "toggle",
+    "img": "images/spr_SVPrev_Goblin.png",
+    "codes": "sv3"
+  },
+  {
+    "name": "Supervisor 4 Unlock",
+    "type": "toggle",
+    "img": "images/spr_SVPrev_Mutant.png",
+    "codes": "sv4"
+  },
+  {
+    "name": "Supervisor 5 Unlock",
+    "type": "toggle",
+    "img": "images/spr_SVPrev_Glass.png",
+    "codes": "sv5"
+  },
+  {
+    "name": "Supervisor 6 Unlock",
+    "type": "toggle",
+    "img": "images/spr_SVPrev_Hunter.png",
+    "codes": "sv6"
+  },
+  {
+    "name": "Supervisor 7 Unlock",
+    "type": "toggle",
+    "img": "images/spr_SVPrev_Balogna.png",
+    "codes": "sv7"
+  },
+  {
+    "name": "Supervisor 8 Unlock",
+    "type": "toggle",
+    "img": "images/spr_SVPrev_Criminal.png",
+    "codes": "sv8"
+  },
+  {
+    "name": "Supervisor 9 Unlock",
+    "type": "toggle",
+    "img": "images/spr_SVPrev_CEO.png",
+    "codes": "sv9"
+  },
+  {
+    "name": "Supervisor 10 Unlock",
+    "type": "toggle",
+    "img": "images/spr_SVPrev_Immortal.png",
+    "codes": "sv10"
+  },
+  {
+    "name": "Supervisor 11 Unlock",
+    "type": "toggle",
+    "img": "images/spr_SVPrev_Dwarf.png",
+    "codes": "sv11"
+  },
+  {
+    "name": "Item: Pants",
+    "type": "toggle",
+    "img": "images/spr_I_Pants.png",
+    "codes": "item_0"
+  },
+  {
+    "name": "Item: Cactus",
+    "type": "toggle",
+    "img": "images/spr_I_Cactus.png",
+    "codes": "item_2"
+  },
+  {
+    "name": "Item: Flame Thrower",
+    "type": "toggle",
+    "img": "images/spr_I_FlameThrower.png",
+    "codes": "item_3"
+  },
+  {
+    "name": "Item: Monstrosity",
+    "type": "toggle",
+    "img": "images/spr_I_Monstrosity.png",
+    "codes": "item_5"
+  },
+  {
+    "name": "Item: Crazy Straw",
+    "type": "toggle",
+    "img": "images/spr_I_CrazyStraw.png",
+    "codes": "item_9"
+  },
+  {
+    "name": "Item: Evil Goose",
+    "type": "toggle",
+    "img": "images/spr_I_EvilGoose.png",
+    "codes": "item_10"
+  },
+  {
+    "name": "Item: Flaming Skull",
+    "type": "toggle",
+    "img": "images/spr_I_FlamingSkull.png",
+    "codes": "item_11"
+  },
+  {
+    "name": "Item: Sea Cucumber",
+    "type": "toggle",
+    "img": "images/spr_I_SeaCucumber.png",
+    "codes": "item_12"
+  },
+  {
+    "name": "Item: Pedro",
+    "type": "toggle",
+    "img": "images/spr_I_Pedro.png",
+    "codes": "item_14"
+  },
+  {
+    "name": "Item: Finger Puppet",
+    "type": "toggle",
+    "img": "images/spr_I_FingerPuppet.png",
+    "codes": "item_16"
+  },
+  {
+    "name": "Item: Jacks",
+    "type": "toggle",
+    "img": "images/spr_I_Jacks.png",
+    "codes": "item_17"
+  },
+  {
+    "name": "Item: Ton of Feathers",
+    "type": "toggle",
+    "img": "images/spr_I_TonofFeathers.png",
+    "codes": "item_21"
+  },
+  {
+    "name": "Item: Dancing Dinosaur",
+    "type": "toggle",
+    "img": "images/spr_I_DancingDinosaur.png",
+    "codes": "item_22"
+  },
+  {
+    "name": "Item: Squirmy",
+    "type": "toggle",
+    "img": "images/spr_I_Squirmy.png",
+    "codes": "item_23"
+  },
+  {
+    "name": "Item: Broken Socket",
+    "type": "toggle",
+    "img": "images/spr_I_BrokenSocket.png",
+    "codes": "item_24"
+  },
+  {
+    "name": "Item: Kazoo",
+    "type": "toggle",
+    "img": "images/spr_I_Kazoo.png",
+    "codes": "item_30"
+  },
+  {
+    "name": "Item: Uranium Rod",
+    "type": "toggle",
+    "img": "images/spr_I_UraniumRod.png",
+    "codes": "item_33"
+  },
+  {
+    "name": "Item: Happy Seal",
+    "type": "toggle",
+    "img": "images/spr_I_HappySeal.png",
+    "codes": "item_35"
+  },
+  {
+    "name": "Item: Friendly Rock",
+    "type": "toggle",
+    "img": "images/spr_I_FriendlyRock.png",
+    "codes": "item_37"
+  },
+  {
+    "name": "Item: Tardigrade",
+    "type": "toggle",
+    "img": "images/spr_I_Tardigrade.png",
+    "codes": "item_40"
+  },
+  {
+    "name": "Item: Plastic Tree",
+    "type": "toggle",
+    "img": "images/spr_I_PlasticTree.png",
+    "codes": "item_41"
+  },
+  {
+    "name": "Item: Cheese House",
+    "type": "toggle",
+    "img": "images/spr_I_CheeseHouse.png",
+    "codes": "item_44"
+  },
+  {
+    "name": "Item: Disguise Glasses",
+    "type": "toggle",
+    "img": "images/spr_I_DisguiseGlasses.png",
+    "codes": "item_48"
+  },
+  {
+    "name": "Item: Two-Headed Turtle",
+    "type": "toggle",
+    "img": "images/spr_I_TwoHeadedTurtle.png",
+    "codes": "item_55"
+  },
+  {
+    "name": "Item: Poop Butt",
+    "type": "toggle",
+    "img": "images/spr_I_PoopButt.png",
+    "codes": "item_65"
+  },
+  {
+    "name": "Item: E-Block",
+    "type": "toggle",
+    "img": "images/spr_I_EBlock.png",
+    "codes": "item_67"
+  },
+  {
+    "name": "Item: T-Block",
+    "type": "toggle",
+    "img": "images/spr_I_TBlock.png",
+    "codes": "item_149"
+  },
+  {
+    "name": "Item: Lobster Claw",
+    "type": "toggle",
+    "img": "images/spr_I_LobsterClaw.png",
+    "codes": "item_4"
+  },
+  {
+    "name": "Item: Nose",
+    "type": "toggle",
+    "img": "images/spr_I_Nose.png",
+    "codes": "item_8"
+  },
+  {
+    "name": "Item: Rubber Chicken",
+    "type": "toggle",
+    "img": "images/spr_I_RubberChicken.png",
+    "codes": "item_20"
+  },
+  {
+    "name": "Item: Yeti",
+    "type": "toggle",
+    "img": "images/spr_I_Yeti.png",
+    "codes": "item_29"
+  },
+  {
+    "name": "Item: Squid",
+    "type": "toggle",
+    "img": "images/spr_I_Squid.png",
+    "codes": "item_31"
+  },
+  {
+    "name": "Item: Laser Pointer",
+    "type": "toggle",
+    "img": "images/spr_I_LaserPointer.png",
+    "codes": "item_52"
+  },
+  {
+    "name": "Item: All-Seeing Pyramid",
+    "type": "toggle",
+    "img": "images/spr_I_AllSeeingPyramid.png",
+    "codes": "item_53"
+  },
+  {
+    "name": "Item: Inflatable Dolphin",
+    "type": "toggle",
+    "img": "images/spr_I_InflatableDolphin.png",
+    "codes": "item_56"
+  },
+  {
+    "name": "Item: 3D Glasses",
+    "type": "toggle",
+    "img": "images/spr_I_3DGlasses.png",
+    "codes": "item_32"
+  },
+  {
+    "name": "Item: Horse Pill",
+    "type": "toggle",
+    "img": "images/spr_I_HorsePill.png",
+    "codes": "item_59"
+  },
+  {
+    "name": "Item: Snake",
+    "type": "toggle",
+    "img": "images/spr_I_Snake.png",
+    "codes": "item_6"
+  },
+  {
+    "name": "Item: Toy Fish",
+    "type": "toggle",
+    "img": "images/spr_I_ToyFish.png",
+    "codes": "item_27"
+  },
+  {
+    "name": "Item: Pointer",
+    "type": "toggle",
+    "img": "images/spr_I_Pointer.png",
+    "codes": "item_34"
+  },
+  {
+    "name": "Item: Asbestos",
+    "type": "toggle",
+    "img": "images/spr_I_Asbestos.png",
+    "codes": "item_43"
+  },
+  {
+    "name": "Item: Wingless Fly",
+    "type": "toggle",
+    "img": "images/spr_I_WinglessFly.png",
+    "codes": "item_47"
+  },
+  {
+    "name": "Item: Mannequin Head",
+    "type": "toggle",
+    "img": "images/spr_I_MannequinHead.png",
+    "codes": "item_51"
+  },
+  {
+    "name": "Item: Ouroboros",
+    "type": "toggle",
+    "img": "images/spr_I_Ouroboros.png",
+    "codes": "item_60"
+  },
+  {
+    "name": "Item: Alien",
+    "type": "toggle",
+    "img": "images/spr_I_Alien.png",
+    "codes": "item_66"
+  },
+  {
+    "name": "Item: Fly Agaric",
+    "type": "toggle",
+    "img": "images/spr_I_FlyAgaric.png",
+    "codes": "item_15"
+  },
+  {
+    "name": "Item: Clay Man Guy",
+    "type": "toggle",
+    "img": "images/spr_I_ClayManGuy.png",
+    "codes": "item_42"
+  },
+  {
+    "name": "Item: King Baby",
+    "type": "toggle",
+    "img": "images/spr_I_KingBaby.png",
+    "codes": "item_49"
+  },
+  {
+    "name": "Item: Fish Man",
+    "type": "toggle",
+    "img": "images/spr_I_FishMan.png",
+    "codes": "item_54"
+  },
+  {
+    "name": "Item: Pregnancy Test",
+    "type": "toggle",
+    "img": "images/spr_I_PregnancyTest.png",
+    "codes": "item_58"
+  },
+  {
+    "name": "Item: Flibby Flobbies",
+    "type": "toggle",
+    "img": "images/spr_I_FlibbyFlobbies.png",
+    "codes": "item_151"
+  },
+  {
+    "name": "Item: Strawberry",
+    "type": "toggle",
+    "img": "images/spr_I_Strawberry.png",
+    "codes": "item_7"
+  },
+  {
+    "name": "Item: Hot Dog Dog",
+    "type": "toggle",
+    "img": "images/spr_I_HotDogDog.png",
+    "codes": "item_36"
+  },
+  {
+    "name": "Item: Kebab",
+    "type": "toggle",
+    "img": "images/spr_I_Kebab.png",
+    "codes": "item_45"
+  },
+  {
+    "name": "Item: Kidney Bean",
+    "type": "toggle",
+    "img": "images/spr_I_KidneyBean.png",
+    "codes": "item_46"
+  },
+  {
+    "name": "Item: Pickle Rat",
+    "type": "toggle",
+    "img": "images/spr_I_PickleRat.png",
+    "codes": "item_50"
+  },
+  {
+    "name": "Item: Jelly",
+    "type": "toggle",
+    "img": "images/spr_I_Jelly.png",
+    "codes": "item_129"
+  },
+  {
+    "name": "Item: Chip",
+    "type": "toggle",
+    "img": "images/spr_I_Chip.png",
+    "codes": "item_136"
+  },
+  {
+    "name": "Item: Soup Crackers",
+    "type": "toggle",
+    "img": "images/spr_I_SoupCrackers.png",
+    "codes": "item_148"
+  },
+  {
+    "name": "Item: Tri-Bagel",
+    "type": "toggle",
+    "img": "images/spr_I_TriBagel.png",
+    "codes": "item_179"
+  },
+  {
+    "name": "Item: Noodle",
+    "type": "toggle",
+    "img": "images/spr_I_Noodle.png",
+    "codes": "item_1"
+  },
+  {
+    "name": "Item: Tart Lard",
+    "type": "toggle",
+    "img": "images/spr_I_TartLard.png",
+    "codes": "item_13"
+  },
+  {
+    "name": "Item: Croissant",
+    "type": "toggle",
+    "img": "images/spr_I_Croissant.png",
+    "codes": "item_18"
+  },
+  {
+    "name": "Item: Dave",
+    "type": "toggle",
+    "img": "images/spr_I_Dave.png",
+    "codes": "item_38"
+  },
+  {
+    "name": "Item: Lentil",
+    "type": "toggle",
+    "img": "images/spr_I_Lentil.png",
+    "codes": "item_61"
+  },
+  {
+    "name": "Item: Avocado",
+    "type": "toggle",
+    "img": "images/spr_I_Avocado.png",
+    "codes": "item_137"
+  },
+  {
+    "name": "Item: Fava Bean",
+    "type": "toggle",
+    "img": "images/spr_I_FavaBean.png",
+    "codes": "item_138"
+  },
+  {
+    "name": "Item: Donut",
+    "type": "toggle",
+    "img": "images/spr_I_Donut.png",
+    "codes": "item_19"
+  },
+  {
+    "name": "Item: Starfruit",
+    "type": "toggle",
+    "img": "images/spr_I_Starfruit.png",
+    "codes": "item_146"
+  },
+  {
+    "name": "Perk: Ray Gun",
+    "type": "toggle",
+    "img": "images/spr_Perk_RayGun.png",
+    "codes": "perk_3"
+  },
+  {
+    "name": "Perk: Speedy",
+    "type": "toggle",
+    "img": "images/spr_Perk_Speedy.png",
+    "codes": "perk_4"
+  },
+  {
+    "name": "Perk: Cheesy",
+    "type": "toggle",
+    "img": "images/spr_Perk_Cheesy.png",
+    "codes": "perk_6"
+  },
+  {
+    "name": "Perk: Waffle",
+    "type": "toggle",
+    "img": "images/spr_Perk_Waffle.png",
+    "codes": "perk_7"
+  },
+  {
+    "name": "Perk: Chaotic",
+    "type": "toggle",
+    "img": "images/spr_Perk_Chaotic.png",
+    "codes": "perk_8"
+  },
+  {
+    "name": "Perk: Zombie",
+    "type": "toggle",
+    "img": "images/spr_Perk_Zombie.png",
+    "codes": "perk_9"
+  },
+  {
+    "name": "Perk: Springy",
+    "type": "toggle",
+    "img": "images/spr_Perk_Springy.png",
+    "codes": "perk_10"
+  },
+  {
+    "name": "Perk: Mystery Box",
+    "type": "toggle",
+    "img": "images/spr_Perk_MysteryBox.png",
+    "codes": "perk_12"
+  },
+  {
+    "name": "Perk: Candle",
+    "type": "toggle",
+    "img": "images/spr_Perk_Candle.png",
+    "codes": "perk_18"
+  },
+  {
+    "name": "Perk: Drainer",
+    "type": "toggle",
+    "img": "images/spr_Perk_Drainer.png",
+    "codes": "perk_20"
+  },
+  {
+    "name": "Perk: Card Tower",
+    "type": "toggle",
+    "img": "images/spr_Perk_CardTower.png",
+    "codes": "perk_21"
+  },
+  {
+    "name": "Perk: Eggy",
+    "type": "toggle",
+    "img": "images/spr_Perk_Eggy.png",
+    "codes": "perk_22"
+  },
+  {
+    "name": "Perk: Buckshot",
+    "type": "toggle",
+    "img": "images/spr_Perk_Buckshot.png",
+    "codes": "perk_23"
+  },
+  {
+    "name": "Perk: Void",
+    "type": "toggle",
+    "img": "images/spr_Perk_Void.png",
+    "codes": "perk_24"
+  },
+  {
+    "name": "Perk: Archaic",
+    "type": "toggle",
+    "img": "images/spr_Perk_Archaic.png",
+    "codes": "perk_26"
+  },
+  {
+    "name": "Perk: Warlock",
+    "type": "toggle",
+    "img": "images/spr_Perk_Warlock.png",
+    "codes": "perk_27"
+  },
+  {
+    "name": "Perk: Gourmet",
+    "type": "toggle",
+    "img": "images/spr_Perk_Gourmet.png",
+    "codes": "perk_28"
+  },
+  {
+    "name": "Perk: Lunar",
+    "type": "toggle",
+    "img": "images/spr_Perk_Lunar.png",
+    "codes": "perk_29"
+  },
+  {
+    "name": "Perk: Snake Eyes",
+    "type": "toggle",
+    "img": "images/spr_Perk_SnakeEyes.png",
+    "codes": "perk_1"
+  },
+  {
+    "name": "Perk: Trophy",
+    "type": "toggle",
+    "img": "images/spr_Perk_Trophy.png",
+    "codes": "perk_13"
+  },
+  {
+    "name": "Perk: Meaty",
+    "type": "toggle",
+    "img": "images/spr_Perk_Meaty.png",
+    "codes": "perk_15"
+  },
+  {
+    "name": "Perk: Cubey",
+    "type": "toggle",
+    "img": "images/spr_Perk_Cubey.png",
+    "codes": "perk_16"
+  },
+  {
+    "name": "Perk: Charity",
+    "type": "toggle",
+    "img": "images/spr_Perk_Charity.png",
+    "codes": "perk_17"
+  },
+  {
+    "name": "Perk: Tornado",
+    "type": "toggle",
+    "img": "images/spr_Perk_Tornado.png",
+    "codes": "perk_19"
+  },
+  {
+    "name": "Perk: Battery",
+    "type": "toggle",
+    "img": "images/spr_Perk_Battery.png",
+    "codes": "perk_5"
+  },
+  {
+    "name": "Perk: Penny",
+    "type": "toggle",
+    "img": "images/spr_Perk_Penny.png",
+    "codes": "perk_14"
+  },
+  {
+    "name": "Perk: Enlightened",
+    "type": "toggle",
+    "img": "images/spr_Perk_Enlightened.png",
+    "codes": "perk_25"
+  },
+  {
+    "name": "Permanent Coins",
+    "type": "consumable",
+    "img": "images/spr_GoldCoinLrg.png",
+    "codes": "bonus_permanent_coins",
+    "min_quantity": 0,
+    "max_quantity": 99,
+    "increment": 1,
+    "decrement": 1
+  },
+  {
+    "name": "Permanent Extra Life",
+    "type": "consumable",
+    "img": "images/spr_NubbyLifeIcon.png",
+    "codes": "bonus_permanent_extra_life",
+    "min_quantity": 0,
+    "max_quantity": 99,
+    "increment": 1,
+    "decrement": 1
+  },
+  {
+    "name": "Permanent Board Shuffle",
+    "type": "consumable",
+    "img": "images/spr_I_MothEgg.png",
+    "codes": "bonus_permanent_board_shuffle",
+    "min_quantity": 0,
+    "max_quantity": 99,
+    "increment": 1,
+    "decrement": 1
+  },
+  {
+    "name": "Permanent Item Rarity",
+    "type": "consumable",
+    "img": "images/spr_I_Avocado.png",
+    "codes": "bonus_permanent_item_rarity",
+    "min_quantity": 0,
+    "max_quantity": 99,
+    "increment": 1,
+    "decrement": 1
+  },
+  {
+    "name": "Item: Tony Skin",
+    "type": "toggle",
+    "img": "images/spr_SVPrev_Tony.png",
+    "codes": "tony_skin"
+  },
+  {
+    "name": "Progressive Zone Unlock",
+    "type": "progressive",
+    "codes": "zone_progressive, zone_stage_0",
+    "initial_stage_idx": true,
+    "allow_disabled": false,
+    "stages": [
+      {
+        "img": "images/spr_ZoneBG_Factory_icon.png",
+        "codes": "zone_stage_0",
+        "name": "No zones unlocked"
+      },
+      {
+        "img": "images/spr_ZoneBG_Stratosphere_icon.png",
+        "codes": "zone_stage_1",
+        "name": "Zone 2 unlocked"
+      },
+      {
+        "img": "images/spr_ZoneBG_Moon_icon.png",
+        "codes": "zone_stage_2",
+        "name": "Zone 3 unlocked"
+      },
+      {
+        "img": "images/spr_ZoneBG_SunTemple_icon.png",
+        "codes": "zone_stage_3",
+        "name": "Zone 4 unlocked"
+      },
+      {
+        "img": "images/spr_ZoneBG_Galaxy_icon.png",
+        "codes": "zone_stage_4",
+        "name": "Zone 5 unlocked"
+      }
+    ]
+  },
+  {
+    "name": "Grab-A-Tron Unlock",
+    "type": "toggle",
+    "img": "images/spr_TLIcon_GrabATron.png",
+    "codes": "lock_grab_a_tron_unlock"
+  },
+  {
+    "name": "Black Market Unlock",
+    "type": "toggle",
+    "img": "images/spr_BlackMarketBtn.png",
+    "codes": "lock_black_market_unlock"
+  },
+  {
+    "name": "Cafe Nubby Unlock",
+    "type": "toggle",
+    "img": "images/spr_I_HotPepper.png",
+    "codes": "lock_cafe_nubby_unlock"
+  },
+  {
+    "name": "Nubby Trials Unlock",
+    "type": "toggle",
+    "img": "images/spr_NubbyTrialsLockedSign.png",
+    "codes": "lock_nubby_trials_unlock"
+  },
+  {
+    "name": "Challenges Unlock",
+    "type": "toggle",
+    "img": "images/spr_ChallengesTxt.png",
+    "codes": "lock_challenges_unlock"
+  },
+  {
+    "name": "Freeze Ability Unlock",
+    "type": "toggle",
+    "img": "images/spr_FreezeItemBtn.png",
+    "codes": "lock_freeze_ability_unlock"
+  },
+  {
+    "name": "Reach Round 5",
+    "type": "toggle",
+    "img": "images/spr_I_SpecialCapsule.png",
+    "codes": "round_ms_5"
+  },
+  {
+    "name": "Reach Round 10",
+    "type": "toggle",
+    "img": "images/spr_I_SpecialCapsule.png",
+    "codes": "round_ms_10"
+  },
+  {
+    "name": "Reach Round 15",
+    "type": "toggle",
+    "img": "images/spr_I_SpecialCapsule.png",
+    "codes": "round_ms_15"
+  },
+  {
+    "name": "Reach Round 20",
+    "type": "toggle",
+    "img": "images/spr_I_SpecialCapsule.png",
+    "codes": "round_ms_20"
+  },
+  {
+    "name": "Reach Round 25",
+    "type": "toggle",
+    "img": "images/spr_I_SpecialCapsule.png",
+    "codes": "round_ms_25"
+  },
+  {
+    "name": "Reach Round 30",
+    "type": "toggle",
+    "img": "images/spr_I_SpecialCapsule.png",
+    "codes": "round_ms_30"
+  },
+  {
+    "name": "Reach Round 35",
+    "type": "toggle",
+    "img": "images/spr_I_SpecialCapsule.png",
+    "codes": "round_ms_35"
+  },
+  {
+    "name": "Reach Round 40",
+    "type": "toggle",
+    "img": "images/spr_I_SpecialCapsule.png",
+    "codes": "round_ms_40"
+  },
+  {
+    "name": "Reach Round 45",
+    "type": "toggle",
+    "img": "images/spr_I_SpecialCapsule.png",
+    "codes": "round_ms_45"
+  },
+  {
+    "name": "Reach Round 50",
+    "type": "toggle",
+    "img": "images/spr_I_SpecialCapsule.png",
+    "codes": "round_ms_50"
+  },
+  {
+    "name": "Reach Round 55",
+    "type": "toggle",
+    "img": "images/spr_I_SpecialCapsule.png",
+    "codes": "round_ms_55"
+  },
+  {
+    "name": "Reach Round 60",
+    "type": "toggle",
+    "img": "images/spr_I_SpecialCapsule.png",
+    "codes": "round_ms_60"
+  },
+  {
+    "name": "Reach Round 65",
+    "type": "toggle",
+    "img": "images/spr_I_SpecialCapsule.png",
+    "codes": "round_ms_65"
+  },
+  {
+    "name": "Reach Round 70",
+    "type": "toggle",
+    "img": "images/spr_I_SpecialCapsule.png",
+    "codes": "round_ms_70"
+  },
+  {
+    "name": "Reach Round 75",
+    "type": "toggle",
+    "img": "images/spr_I_SpecialCapsule.png",
+    "codes": "round_ms_75"
+  },
+  {
+    "name": "Reach Round 80",
+    "type": "toggle",
+    "img": "images/spr_I_SpecialCapsule.png",
+    "codes": "round_ms_80"
+  },
+  {
+    "name": "Reach 1 Restocks",
+    "type": "toggle",
+    "img": "images/spr_I_MothEgg.png",
+    "codes": "restock_ms_1"
+  },
+  {
+    "name": "Reach 2 Restocks",
+    "type": "toggle",
+    "img": "images/spr_I_MothEgg.png",
+    "codes": "restock_ms_2"
+  },
+  {
+    "name": "Reach 5 Restocks",
+    "type": "toggle",
+    "img": "images/spr_I_MothEgg.png",
+    "codes": "restock_ms_5"
+  },
+  {
+    "name": "Reach 10 Restocks",
+    "type": "toggle",
+    "img": "images/spr_I_MothEgg.png",
+    "codes": "restock_ms_10"
+  },
+  {
+    "name": "Reach 50 Restocks",
+    "type": "toggle",
+    "img": "images/spr_I_MothEgg.png",
+    "codes": "restock_ms_50"
+  },
+  {
+    "name": "Reach 100 Restocks",
+    "type": "toggle",
+    "img": "images/spr_I_MothEgg.png",
+    "codes": "restock_ms_100"
+  },
+  {
+    "name": "Reach 500 Restocks",
+    "type": "toggle",
+    "img": "images/spr_I_MothEgg.png",
+    "codes": "restock_ms_500"
+  },
+  {
+    "name": "Reach 1000 Restocks",
+    "type": "toggle",
+    "img": "images/spr_I_MothEgg.png",
+    "codes": "restock_ms_1000"
+  },
+  {
+    "name": "Reach 2000 Restocks",
+    "type": "toggle",
+    "img": "images/spr_I_MothEgg.png",
+    "codes": "restock_ms_2000"
+  },
+  {
+    "name": "Reach 3000 Restocks",
+    "type": "toggle",
+    "img": "images/spr_I_MothEgg.png",
+    "codes": "restock_ms_3000"
+  },
+  {
+    "name": "Reach 4000 Restocks",
+    "type": "toggle",
+    "img": "images/spr_I_MothEgg.png",
+    "codes": "restock_ms_4000"
+  },
+  {
+    "name": "Reach 5000 Restocks",
+    "type": "toggle",
+    "img": "images/spr_I_MothEgg.png",
+    "codes": "restock_ms_5000"
+  },
+  {
+    "name": "Reach 6000 Restocks",
+    "type": "toggle",
+    "img": "images/spr_I_MothEgg.png",
+    "codes": "restock_ms_6000"
+  },
+  {
+    "name": "Reach 7000 Restocks",
+    "type": "toggle",
+    "img": "images/spr_I_MothEgg.png",
+    "codes": "restock_ms_7000"
+  },
+  {
+    "name": "Reach 8000 Restocks",
+    "type": "toggle",
+    "img": "images/spr_I_MothEgg.png",
+    "codes": "restock_ms_8000"
+  },
+  {
+    "name": "Reach 9000 Restocks",
+    "type": "toggle",
+    "img": "images/spr_I_MothEgg.png",
+    "codes": "restock_ms_9000"
+  },
+  {
+    "name": "Reach 9999 Restocks",
+    "type": "toggle",
+    "img": "images/spr_I_MothEgg.png",
+    "codes": "restock_ms_9999"
+  },
+  {
+    "name": "AP Item Purchase 1",
+    "type": "toggle",
+    "img": "images/spr_I_SpecialCapsule.png",
+    "codes": "shop_slot_1"
+  },
+  {
+    "name": "AP Item Purchase 2",
+    "type": "toggle",
+    "img": "images/spr_I_SpecialCapsule.png",
+    "codes": "shop_slot_2"
+  },
+  {
+    "name": "AP Item Purchase 3",
+    "type": "toggle",
+    "img": "images/spr_I_SpecialCapsule.png",
+    "codes": "shop_slot_3"
+  },
+  {
+    "name": "AP Item Purchase 4",
+    "type": "toggle",
+    "img": "images/spr_I_SpecialCapsule.png",
+    "codes": "shop_slot_4"
+  },
+  {
+    "name": "AP Item Purchase 5",
+    "type": "toggle",
+    "img": "images/spr_I_SpecialCapsule.png",
+    "codes": "shop_slot_5"
+  },
+  {
+    "name": "AP Item Purchase 6",
+    "type": "toggle",
+    "img": "images/spr_I_SpecialCapsule.png",
+    "codes": "shop_slot_6"
+  },
+  {
+    "name": "AP Item Purchase 7",
+    "type": "toggle",
+    "img": "images/spr_I_SpecialCapsule.png",
+    "codes": "shop_slot_7"
+  },
+  {
+    "name": "AP Item Purchase 8",
+    "type": "toggle",
+    "img": "images/spr_I_SpecialCapsule.png",
+    "codes": "shop_slot_8"
+  },
+  {
+    "name": "AP Item Purchase 9",
+    "type": "toggle",
+    "img": "images/spr_I_SpecialCapsule.png",
+    "codes": "shop_slot_9"
+  },
+  {
+    "name": "AP Item Purchase 10",
+    "type": "toggle",
+    "img": "images/spr_I_SpecialCapsule.png",
+    "codes": "shop_slot_10"
+  },
+  {
+    "name": "AP Item Purchase 11",
+    "type": "toggle",
+    "img": "images/spr_I_SpecialCapsule.png",
+    "codes": "shop_slot_11"
+  },
+  {
+    "name": "AP Item Purchase 12",
+    "type": "toggle",
+    "img": "images/spr_I_SpecialCapsule.png",
+    "codes": "shop_slot_12"
+  },
+  {
+    "name": "AP Item Purchase 13",
+    "type": "toggle",
+    "img": "images/spr_I_SpecialCapsule.png",
+    "codes": "shop_slot_13"
+  },
+  {
+    "name": "AP Item Purchase 14",
+    "type": "toggle",
+    "img": "images/spr_I_SpecialCapsule.png",
+    "codes": "shop_slot_14"
+  },
+  {
+    "name": "Points Checks",
+    "type": "consumable",
+    "img": "images/spr_I_MothEgg.png",
+    "codes": "points_progress",
+    "min_quantity": 0,
+    "max_quantity": 500,
+    "increment": 1,
+    "decrement": 1
+  },
+  {
+    "name": "Supervisor 0: Tony (Default)",
+    "type": "toggle",
+    "img": "images/spr_SVPrev_Tony.png",
+    "codes": "sv0_default_tony"
+  }
+]

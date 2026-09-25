@@ -1,0 +1,332 @@
+{
+  "tracker_default": {
+    "type": "layout",
+    "key": "main_layout"
+  },
+  "main_layout": {
+    "type": "array",
+    "orientation": "horizontal",
+    "content": [
+      {
+        "type": "group",
+        "header": "Shop Items",
+        "content": {
+          "type": "itemgrid",
+          "rows": [
+            [
+              "item_0",
+              "item_2",
+              "item_3",
+              "item_5",
+              "item_9",
+              "item_10",
+              "item_11",
+              "item_12"
+            ],
+            [
+              "item_14",
+              "item_16",
+              "item_17",
+              "item_21",
+              "item_22",
+              "item_23",
+              "item_24",
+              "item_30"
+            ],
+            [
+              "item_33",
+              "item_35",
+              "item_37",
+              "item_40",
+              "item_41",
+              "item_44",
+              "item_48",
+              "item_55"
+            ],
+            [
+              "item_65",
+              "item_67",
+              "item_149",
+              "item_4",
+              "item_8",
+              "item_20",
+              "item_29",
+              "item_31"
+            ],
+            [
+              "item_52",
+              "item_53",
+              "item_56",
+              "item_32",
+              "item_59",
+              "item_6",
+              "item_27",
+              "item_34"
+            ],
+            [
+              "item_43",
+              "item_47",
+              "item_51",
+              "item_60",
+              "item_66",
+              "item_15",
+              "item_42",
+              "item_49"
+            ],
+            [
+              "item_54",
+              "item_58",
+              "item_151",
+              "item_7",
+              "item_36",
+              "item_45",
+              "item_46",
+              "item_50"
+            ],
+            [
+              "item_129",
+              "item_136",
+              "item_148",
+              "item_179",
+              "item_1",
+              "item_13",
+              "item_18",
+              "item_38"
+            ],
+            [
+              "item_61",
+              "item_137",
+              "item_138",
+              "item_19",
+              "item_146"
+            ]
+          ],
+          "item_size": "64,64",
+          "item_margin": "4,4"
+        }
+      },
+      {
+        "type": "array",
+        "orientation": "vertical",
+        "content": [
+          {
+            "type": "group",
+            "header": "Supervisors",
+            "content": {
+              "type": "itemgrid",
+              "rows": [
+                [
+                  "sv0_default_tony",
+                  "sv1",
+                  "sv2",
+                  "sv3",
+                  "sv4",
+                  "sv5"
+                ],
+                [
+                  "sv6",
+                  "sv7",
+                  "sv8",
+                  "sv9",
+                  "sv10",
+                  "sv11"
+                ]
+              ],
+              "item_size": "64,64",
+              "item_margin": "4,4"
+            }
+          },
+          {
+            "type": "group",
+            "header": "Perks",
+            "content": {
+              "type": "itemgrid",
+              "rows": [
+                [
+                  "perk_3",
+                  "perk_4",
+                  "perk_6",
+                  "perk_7",
+                  "perk_8",
+                  "perk_9"
+                ],
+                [
+                  "perk_10",
+                  "perk_12",
+                  "perk_18",
+                  "perk_20",
+                  "perk_21",
+                  "perk_22"
+                ],
+                [
+                  "perk_23",
+                  "perk_24",
+                  "perk_26",
+                  "perk_27",
+                  "perk_28",
+                  "perk_29"
+                ],
+                [
+                  "perk_1",
+                  "perk_13",
+                  "perk_15",
+                  "perk_16",
+                  "perk_17",
+                  "perk_19"
+                ],
+                [
+                  "perk_5",
+                  "perk_14",
+                  "perk_25"
+                ]
+              ],
+              "item_size": "64,64",
+              "item_margin": "4,4"
+            }
+          },
+          {
+            "type": "group",
+            "header": "Locks / Zones / Bonuses",
+            "content": {
+              "type": "itemgrid",
+              "rows": [
+                [
+                  "tony_skin",
+                  "zone_progressive",
+                  "lock_grab_a_tron_unlock",
+                  "lock_black_market_unlock",
+                  "lock_cafe_nubby_unlock",
+                  "lock_nubby_trials_unlock"
+                ],
+                [
+                  "lock_challenges_unlock",
+                  "lock_freeze_ability_unlock",
+                  "bonus_permanent_coins",
+                  "bonus_permanent_extra_life",
+                  "bonus_permanent_board_shuffle",
+                  "bonus_permanent_item_rarity"
+                ]
+              ],
+              "item_size": "64,64",
+              "item_margin": "4,4"
+            }
+          }
+        ]
+      },
+      {
+        "type": "array",
+        "orientation": "vertical",
+        "content": [
+          {
+            "type": "group",
+            "header": "Round Milestones",
+            "content": {
+              "type": "itemgrid",
+              "rows": [
+                [
+                  "round_ms_5",
+                  "round_ms_10",
+                  "round_ms_15",
+                  "round_ms_20",
+                  "round_ms_25",
+                  "round_ms_30",
+                  "round_ms_35",
+                  "round_ms_40"
+                ],
+                [
+                  "round_ms_45",
+                  "round_ms_50",
+                  "round_ms_55",
+                  "round_ms_60",
+                  "round_ms_65",
+                  "round_ms_70",
+                  "round_ms_75",
+                  "round_ms_80"
+                ]
+              ],
+              "item_size": "64,64",
+              "item_margin": "4,4"
+            }
+          },
+          {
+            "type": "group",
+            "header": "Restock Milestones",
+            "content": {
+              "type": "itemgrid",
+              "rows": [
+                [
+                  "restock_ms_1",
+                  "restock_ms_2",
+                  "restock_ms_5",
+                  "restock_ms_10",
+                  "restock_ms_50",
+                  "restock_ms_100"
+                ],
+                [
+                  "restock_ms_500",
+                  "restock_ms_1000",
+                  "restock_ms_2000",
+                  "restock_ms_3000",
+                  "restock_ms_4000",
+                  "restock_ms_5000"
+                ],
+                [
+                  "restock_ms_6000",
+                  "restock_ms_7000",
+                  "restock_ms_8000",
+                  "restock_ms_9000",
+                  "restock_ms_9999"
+                ]
+              ],
+              "item_size": "64,64",
+              "item_margin": "4,4"
+            }
+          },
+          {
+            "type": "group",
+            "header": "Shop",
+            "content": {
+              "type": "itemgrid",
+              "rows": [
+                [
+                  "shop_slot_1",
+                  "shop_slot_2",
+                  "shop_slot_3",
+                  "shop_slot_4",
+                  "shop_slot_5",
+                  "shop_slot_6",
+                  "shop_slot_7",
+                  "shop_slot_8"
+                ],
+                [
+                  "shop_slot_9",
+                  "shop_slot_10",
+                  "shop_slot_11",
+                  "shop_slot_12",
+                  "shop_slot_13",
+                  "shop_slot_14"
+                ]
+              ],
+              "item_size": "64,64",
+              "item_margin": "4,4"
+            }
+          },
+          {
+            "type": "group",
+            "header": "Points",
+            "content": {
+              "type": "itemgrid",
+              "rows": [
+                [
+                  "points_progress"
+                ]
+              ],
+              "item_size": "64,64",
+              "item_margin": "4,4"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

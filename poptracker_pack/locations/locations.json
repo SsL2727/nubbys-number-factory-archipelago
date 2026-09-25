@@ -1,0 +1,269 @@
+[
+  {
+    "name": "Supervisor Wins",
+    "children": [
+      {
+        "name": "Win Supervisor 1",
+        "sections": [
+          {
+            "name": "Win Supervisor 1",
+            "item_count": 1
+          }
+        ]
+      },
+      {
+        "name": "Win Supervisor 2",
+        "sections": [
+          {
+            "name": "Win Supervisor 2",
+            "item_count": 1
+          }
+        ]
+      },
+      {
+        "name": "Win Supervisor 3",
+        "sections": [
+          {
+            "name": "Win Supervisor 3",
+            "item_count": 1
+          }
+        ]
+      },
+      {
+        "name": "Win Supervisor 4",
+        "sections": [
+          {
+            "name": "Win Supervisor 4",
+            "item_count": 1
+          }
+        ]
+      },
+      {
+        "name": "Win Supervisor 5",
+        "sections": [
+          {
+            "name": "Win Supervisor 5",
+            "item_count": 1
+          }
+        ]
+      },
+      {
+        "name": "Win Supervisor 6",
+        "sections": [
+          {
+            "name": "Win Supervisor 6",
+            "item_count": 1
+          }
+        ]
+      },
+      {
+        "name": "Win Supervisor 7",
+        "sections": [
+          {
+            "name": "Win Supervisor 7",
+            "item_count": 1
+          }
+        ]
+      },
+      {
+        "name": "Win Supervisor 8",
+        "sections": [
+          {
+            "name": "Win Supervisor 8",
+            "item_count": 1
+          }
+        ]
+      },
+      {
+        "name": "Win Supervisor 9",
+        "sections": [
+          {
+            "name": "Win Supervisor 9",
+            "item_count": 1
+          }
+        ]
+      },
+      {
+        "name": "Win Supervisor 10",
+        "sections": [
+          {
+            "name": "Win Supervisor 10",
+            "item_count": 1
+          }
+        ]
+      },
+      {
+        "name": "Win Supervisor 11",
+        "sections": [
+          {
+            "name": "Win Supervisor 11",
+            "item_count": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Challenges",
+    "children": [
+      {
+        "name": "Complete Challenge 0",
+        "sections": [
+          {
+            "name": "Complete Challenge 0",
+            "item_count": 1
+          }
+        ]
+      },
+      {
+        "name": "Complete Challenge 1",
+        "sections": [
+          {
+            "name": "Complete Challenge 1",
+            "item_count": 1
+          }
+        ]
+      },
+      {
+        "name": "Complete Challenge 2",
+        "sections": [
+          {
+            "name": "Complete Challenge 2",
+            "item_count": 1
+          }
+        ]
+      },
+      {
+        "name": "Complete Challenge 3",
+        "sections": [
+          {
+            "name": "Complete Challenge 3",
+            "item_count": 1
+          }
+        ]
+      },
+      {
+        "name": "Complete Challenge 4",
+        "sections": [
+          {
+            "name": "Complete Challenge 4",
+            "item_count": 1
+          }
+        ]
+      },
+      {
+        "name": "Complete Challenge 5",
+        "sections": [
+          {
+            "name": "Complete Challenge 5",
+            "item_count": 1
+          }
+        ]
+      },
+      {
+        "name": "Complete Challenge 6",
+        "sections": [
+          {
+            "name": "Complete Challenge 6",
+            "item_count": 1
+          }
+        ]
+      },
+      {
+        "name": "Complete Challenge 7",
+        "sections": [
+          {
+            "name": "Complete Challenge 7",
+            "item_count": 1
+          }
+        ]
+      },
+      {
+        "name": "Complete Challenge 8",
+        "sections": [
+          {
+            "name": "Complete Challenge 8",
+            "item_count": 1
+          }
+        ]
+      },
+      {
+        "name": "Complete Challenge 9",
+        "sections": [
+          {
+            "name": "Complete Challenge 9",
+            "item_count": 1
+          }
+        ]
+      },
+      {
+        "name": "Complete Challenge 10",
+        "sections": [
+          {
+            "name": "Complete Challenge 10",
+            "item_count": 1
+          }
+        ]
+      },
+      {
+        "name": "Complete Challenge 11",
+        "sections": [
+          {
+            "name": "Complete Challenge 11",
+            "item_count": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Nubby Trials",
+    "children": [
+      {
+        "name": "Beat Nubby Trials Level 1",
+        "sections": [
+          {
+            "name": "Beat Nubby Trials Level 1",
+            "item_count": 1
+          }
+        ]
+      },
+      {
+        "name": "Beat Nubby Trials Level 2",
+        "sections": [
+          {
+            "name": "Beat Nubby Trials Level 2",
+            "item_count": 1
+          }
+        ]
+      },
+      {
+        "name": "Beat Nubby Trials Level 3",
+        "sections": [
+          {
+            "name": "Beat Nubby Trials Level 3",
+            "item_count": 1
+          }
+        ]
+      },
+      {
+        "name": "Beat Nubby Trials Level 4",
+        "sections": [
+          {
+            "name": "Beat Nubby Trials Level 4",
+            "item_count": 1
+          }
+        ]
+      },
+      {
+        "name": "Beat Nubby Trials Level 5",
+        "sections": [
+          {
+            "name": "Beat Nubby Trials Level 5",
+            "item_count": 1
+          }
+        ]
+      }
+    ]
+  }
+]

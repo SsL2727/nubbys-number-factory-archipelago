@@ -1,0 +1,16 @@
+{
+  "name": "Nubby's Number Factory",
+  "game_name": "Nubby's Number Factory",
+  "package_uid": "nubbys_number_factory",
+  "package_version": "1.0.0",
+  "platform": "generic",
+  "author": "kali (apworld) / pack generated with Claude",
+  "variants": {
+    "standard": {
+      "display_name": "Standard",
+      "flags": [
+        "ap"
+      ]
+    }
+  }
+}
