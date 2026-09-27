@@ -9,8 +9,6 @@ An [Archipelago](https://archipelago.gg) randomizer implementation for *Nubby's 
 - `gml_patch/PatchApItemLockV30_MASTER.csx` - the raw [UndertaleModTool](https://github.com/UnderminersTeam/UndertaleModTool) script the patched `data.win` is built from, for anyone who wants to inspect it or rebuild it themselves.
 - `poptracker_pack/nnf_poptracker_pack.zip` - a [PopTracker](https://github.com/black-sliver/PopTracker) pack for tracking checks.
 
-The **patched `data.win`** itself is attached to each [Release](../../releases) rather than committed here.
-
 ## Setup
 
 ### 1. Back up your own files first
@@ -60,9 +58,6 @@ To go back to playing the base game, no randomizer:
    Then restart the game. If you'd rather restore your own manual backup from step 1 instead, just copy those files back into `%LOCALAPPDATA%\NNF_FullVersion\` yourself.
 
 ## Advanced: rebuilding the patch yourself
-
-If you'd rather build the patched `data.win` yourself instead of downloading it, using [UndertaleModTool](https://github.com/UnderminersTeam/UndertaleModTool):
-
 
 ## Notes
 
