@@ -26,9 +26,19 @@ You'll need these to go back to a normal, non-randomized game later (see "Revert
 
 Copy `nubbys_number_factory.apworld` into your Archipelago install's `custom_worlds` folder, then generate or join a game as usual.
 
-### 3. Patch your `data.win`
+### 3. Patch Data.win
 
-Download `data.win` from this repo's [latest Release](../../releases/latest) and replace your game's `data.win` with it (same folder as step 1's backup). This is the same file every player uses - built from the patch script in this repo, applied to a clean copy of the game.
+1. Back up your `data.win` (see step 1 above, if you haven't already).
+2. Open your `data.win` in UndertaleModTool and run **Decompile All Code** (or use `UndertaleModCli`'s decompile mode). This produces a folder of `.gml` files - point it somewhere on disk, e.g. `C:\NNF_decompiled\`.
+3. Open `gml_patch/PatchApItemLockV30_MASTER.csx` and either set the `NNF_DECOMP_FOLDER` environment variable to that folder, or edit **line 13** directly:
+   ```csharp
+   string decompFolder = Environment.GetEnvironmentVariable("NNF_DECOMP_FOLDER") ?? @"C:\NNF_decompiled";
+   ```
+4. Run the script against your own `data.win` with UndertaleModCli:
+   ```
+   UndertaleModCli.exe load "data.win" -s "PatchApItemLockV30_MASTER.csx" -o "data.win.patched"
+   ```
+5. Replace the game's `data.win` with `data.win.patched`.
 
 ### 4. Connect the client
 
@@ -53,17 +63,6 @@ To go back to playing the base game, no randomizer:
 
 If you'd rather build the patched `data.win` yourself instead of downloading it, using [UndertaleModTool](https://github.com/UnderminersTeam/UndertaleModTool):
 
-1. Back up your `data.win` (see step 1 above, if you haven't already).
-2. Open your `data.win` in UndertaleModTool and run **Decompile All Code** (or use `UndertaleModCli`'s decompile mode). This produces a folder of `.gml` files - point it somewhere on disk, e.g. `C:\NNF_decompiled\`.
-3. Open `gml_patch/PatchApItemLockV30_MASTER.csx` and either set the `NNF_DECOMP_FOLDER` environment variable to that folder, or edit **line 13** directly:
-   ```csharp
-   string decompFolder = Environment.GetEnvironmentVariable("NNF_DECOMP_FOLDER") ?? @"C:\NNF_decompiled";
-   ```
-4. Run the script against your own `data.win` with UndertaleModCli:
-   ```
-   UndertaleModCli.exe load "data.win" -s "PatchApItemLockV30_MASTER.csx" -o "data.win.patched"
-   ```
-5. Replace the game's `data.win` with `data.win.patched`.
 
 ## Notes
 
